@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "stm32f10x.h": "c",
+        "moto.hpp": "c",
+        "stm32f10x_conf.h": "c",
+        "compare": "cpp",
+        "stm32f10x_dac.h": "c"
+    }
+}
